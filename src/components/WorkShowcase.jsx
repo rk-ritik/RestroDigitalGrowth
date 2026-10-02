@@ -236,7 +236,7 @@ export default function WorkShowcase({ onOpenContact }) {
 
           <div className="flex items-center gap-2.5 shrink-0">
             <a
-              href="https://wa.me/?text=Hi%20Restro%20Digital%20Growth,%20I%20want%20to%20upgrade%20my%20restaurant%20menu%20and%20online%20sales."
+              href={`https://wa.me/${AGENCY_CONFIG.whatsappNumber}?text=${encodeURIComponent('Hi Restro Digital Growth, I want to upgrade my restaurant menu and online sales.')}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold transition-colors cursor-pointer"

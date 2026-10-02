@@ -13,10 +13,10 @@ import {
 } from '../utils/icons';
 
 export const AGENCY_CONFIG = {
-  phoneDisplay: "+91 9065423845",
-  phoneCall: "tel:+919065423845",
-  whatsappNumber: "919065423845",
-  email: "viratritik010@gmail.com",
+  phoneDisplay: "+91 9296902604",
+  phoneCall: "tel:+919296902604",
+  whatsappNumber: "919296902604",
+  email: "restrodigitalgrowth@gmail.com",
   city: "Pan-India Remote Support",
   googleScriptUrl: "https://script.google.com/macros/s/AKfycbze-o42sbujGT8PFUPo4AtdQGofxl-ysLMe1xuqXti6Szg4xCVXzIjvlIMzsV1zr-WJ/exec",
 };
